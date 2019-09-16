@@ -23,16 +23,20 @@ _รวมรายชื่อศิลปิน ผลงาน และง�
 - [Mario Klingemann](Mario-Klingemann)
 
 -----
-### Gene Kogan [>](http://genekogan.com) 
+### Gene Kogan 
+[>](http://genekogan.com) 
 
 
 
-### Kyle McDonald [>](https://kylemcdonald.net)
+### Kyle McDonald 
+[>](https://kylemcdonald.net)
 
 
 
-### Memo Akten [>](http://www.memo.tv/works/#)
+### Memo Akten 
+[>](http://www.memo.tv/works/#)
 
 
 
-### Mario Klingemann [>](http://quasimondo.com)
+### Mario Klingemann 
+[>](http://quasimondo.com)
